@@ -4,13 +4,13 @@ A modern **YouTube UI clone** built with **React JS**, featuring a working **mic
 ---
 
 ## 🔗 Live Demo  
-🌐 [Click here to view the live app](https://your-netlify-link.netlify.app)  
+🌐 [Click here to view the live app](https://celebrated-melba-0ef88e.netlify.app/)  
 > *(Replace the above link with your actual Netlify URL)*
 
 ---
 
 ## 📸 Screenshot  
-![YouTube Clone Screenshot](./screenshot.png)  
+![YouTube Clone Screenshot](./youtube.jpeg)  
 > *(Add your actual image path here — homepage with mic icon visible)*
 
 ---
